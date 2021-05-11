@@ -25,3 +25,6 @@ Batch size = 10
 Steps per epoch = 2625 (< No.of training images//Batch size)
 
 Validation steps = 875.
+
+# Dataset
+https://drive.google.com/drive/folders/1keWr7X8aR4YMotY2m8SlEHlyruDDdVi
